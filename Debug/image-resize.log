@@ -1,0 +1,17 @@
+﻿  Source.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(143,1): warning C4267: '+=': conversion from 'size_t' to 'char', possible loss of data
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(138): message : while compiling class template member function 'std::string crow::websocket::Connection<crow::SocketAdaptor>::build_header(int,size_t)'
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(128): message : see reference to function template instantiation 'std::string crow::websocket::Connection<crow::SocketAdaptor>::build_header(int,size_t)' being compiled
+C:\.vcpkg\installed\x86-windows\include\crow\routing.h(279): message : see reference to class template instantiation 'crow::websocket::Connection<crow::SocketAdaptor>' being compiled
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(155,1): warning C4293: '>>': shift count negative or too big, undefined behavior
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(336,47): warning C4244: '=': conversion from 'uint64_t' to 'size_t', possible loss of data
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(178): message : while compiling class template member function 'void crow::websocket::Connection<crow::SocketAdaptor>::do_read(void)'
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(174): message : see reference to function template instantiation 'void crow::websocket::Connection<crow::SocketAdaptor>::do_read(void)' being compiled
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(91,1): warning C4267: '+=': conversion from 'size_t' to 'char', possible loss of data
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(88): message : while compiling class template member function 'void crow::websocket::Connection<crow::SocketAdaptor>::send_pong(const std::string &)'
+C:\.vcpkg\installed\x86-windows\include\crow\websocket.h(441): message : see reference to function template instantiation 'void crow::websocket::Connection<crow::SocketAdaptor>::send_pong(const std::string &)' being compiled
+  image-resize.vcxproj -> C:\Users\Amadeus Yuki\source\repos\image-resize\Debug\image-resize.exe

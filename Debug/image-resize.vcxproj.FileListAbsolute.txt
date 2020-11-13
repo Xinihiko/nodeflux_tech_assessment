@@ -1,0 +1,4 @@
+C:\Users\Amadeus Yuki\source\repos\image-resize\image-resize\Debug\image-resize.vcxproj.CopyComplete
+C:\Users\Amadeus Yuki\source\repos\image-resize\image-resize\Debug\image-resize.exe
+C:\Users\Amadeus Yuki\source\repos\image-resize\image-resize\Debug\image-resize.pdb
+C:\Users\Amadeus Yuki\source\repos\image-resize\Debug\image-resize.pdb
